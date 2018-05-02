@@ -60,3 +60,17 @@ ul.main_menu {
     
 }
 
+h6 {
+    visibility: hidden;
+}
+
+.img1 {
+    
+    float: left;
+    left: 43%;
+    position: absolute;
+}
+
+    
+
+
